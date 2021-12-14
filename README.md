@@ -6,6 +6,8 @@ I dont think i will need a backend service at all - no persistence of data neede
 
 landing page 
   1. contact us option for email
+    a. ask chelsea how the setup for this email should be
+    b. do we want people to put their email in and have us contact them, generate an automated message, etc. 
   2. link to facebook group
 
 second page for about us?
